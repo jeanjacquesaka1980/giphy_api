@@ -1,0 +1,15 @@
+button {
+    padding: 15px;
+    border: 2px solid black;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: black;
+    color: #f9f9f9;
+    transition: 0.3s ease-in-out;
+}
+
+#result {
+    margin: 30px;
+}
